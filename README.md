@@ -1,2 +1,2 @@
 # shop-fake-api
-this is fake api for ecommerce products
+this is a fake api for ecommerce products
