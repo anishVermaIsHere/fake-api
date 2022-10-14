@@ -1,1 +1,556 @@
-[{"title":"Demographic Consumer Survey","description":"This survey is to determine consumer behaviour because every customer has different purchasing habits. Refer to the consumer behaviour survey template below and conduct a survey.","cover":"https://www.marketing91.com/wp-content/uploads/2015/12/demographic.jpg","start_date":"01-09-2022","end_date":"01-10-2022","vote":true,"route":"demographic-consumer-survey","set":[{"id":1.1,"question":"How routinely do you shop?","options":["Every week","Several times per week","Every month","Several times per month"],"answer":""},{"id":1.2,"question":"What is your qualifications?","options":["8-10","10+2","Graduate-PG","Uneducated"],"answer":""},{"id":1.3,"question":"What is your current employment status?","options":["Full-time employment","Part-time employment","Unemployed","Self-employed"],"answer":""},{"id":1.4,"question":"How often do you purchase goods(such as garments, gadgets, etc.?","options":["In every month","In every quarter","In every year","Not sure"],"answer":""},{"id":1.5,"question":"Where are you located?","options":["In Metropolitan area","In Urban area","In Semi urban area","In Rural area"],"answer":""},{"id":1.6,"question":"How old are you?","options":["18-25","25-35","35-50","50 and above"],"answer":""},{"id":1.7,"question":"What is your annual income range? ","options":["50-80 thousands","80-100 thousands","1-1.5 lacs ","None of these"],"answer":""},{"id":1.8,"question":"How much do you spend on shopping every month of your income?","options":["20%","30%","40%","Not sure"],"answer":""},{"id":1.9,"question":"What gender do you identify as?","options":["Male","Female","Other","Prefer not to say"],"answer":""},{"id":1.1,"question":"What is your Marital Status?","options":["Married","Single","Divorced"],"answer":""}]},{"title":"Social Media Survey","description":"The social media survey is designed to collect information regarding the social media websites and what are the most preferred activities a person would like to carry out on social media.","cover":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2022/04/19/1506964-april-teamology-article-16-dna.png","start_date":"14-10-2022","end_date":"24-10-2022","vote":false,"route":"social-media-survey","set":[{"id":2.1,"question":"Considering your complete experience with social media websites (Facebook, Twitter, Instagram, etc.), how likely are you to recommend it to your family and friends?","options":["Very Unlikely","Unlikely","Likely","Very Likely"],"answer":""},{"id":2.2,"question":"Please rate the following social media websites on a scale from 0-10?","options":["Facebook","Twitter","Instagram","Whatsapp","Youtube","Linkedin"],"answer":""},{"id":2.3,"question":"Which of the following social media website do you currently have an account with?","options":["Facebook","Twitter","Instagram","Whatsapp","Youtube","Linkedin"],"answer":""},{"id":2.4,"question":"How often do you check-in to your social media accounts in any given week?","options":["Daily","Every other day","Every two days","Once a week"],"answer":""},{"id":2.5,"question":"What is your go-to device to access your social media feed?","options":["Mobile","Tablet","Laptop","Desktop"],"answer":""},{"id":2.6,"question":"Are you using social media for your business?","options":["Yes","No"],"answer":""},{"id":2.7,"question":"What is your annual income range? ","options":["50-80 thousands","80-100 thousands","1-1.5 lacs ","None of these"],"answer":""},{"id":2.8,"question":"Are you a public figure or influencer on Facebook or other social media platforms?","options":["Yes","No"],"answer":""},{"id":2.9,"question":"On a regular day how many times do you post pictures, comments, etc. on your social media accounts?","options":["Extremely often","Very often","Slightly often","Not at all often"],"answer":""},{"id":2.1,"question":" What is your purpose of using social media website?","options":["To make friends","To socialize casually","To promote products/services","To find employment","Other"],"answer":""},{"id":2.11,"question":"Which social media application did you first start using?","options":["Facebook","Twitter","Instagram","Whatsapp","Youtube","Linkedin"],"answer":""}]},{"title":"Netflix Survey","description":"This survey is to determine information about Netflix users and how they obtain and stream their video content.","cover":"https://www.popsci.com/uploads/2019/10/22/AUSBJ7SDRWXMD7VXVNJASUT6ME.jpg?auto=webp","start_date":"14-10-2022","end_date":"24-10-2022","vote":false,"route":"netflix-survey","set":[{"id":3.1,"question":"Which online streaming/rental services you currently use ?","options":["Netflix","Amazon Prime","Disney+Hotstar","HBO Max","Hulu","None"],"answer":""},{"id":3.2,"question":"Do you currently have a Netflix subscription?","options":["Yes","No"],"answer":""},{"id":3.3,"question":"How many times you use your Netflix subscription in a given month?","options":["Everyday","2-6 times a week","Once a week","Once a month","Less than once a month","None"],"answer":""},{"id":3.4,"question":"What portal do you use to stream Netflix content?","options":["Smart Phone","Internet TV","Play Station","Xbox","Laptop or Desktop","None"],"answer":""},{"id":3.5,"question":"Indicate your overall opinion of your Netflix subscription?","options":["Very Satisfied","Satisfied","Dissatisfied","Very Dissatisfied","None of these"],"answer":""},{"id":3.6,"question":"What do you use your Netflix subscriptions for the most?","options":["Movies","Webseries","Both","None"],"answer":""},{"id":3.7,"question":"Which of these OTT plaform you view as a competitor of Netflix ?","options":["Amazon Prime","Disney Hotstar","HBO Max","Hulu","All"],"answer":""}]},{"title":"Political Polls","description":"This polls is designed only for to determine public opinions.","cover":"https://static.toiimg.com/thumb/msid-68631947,width-400,resizemode-4/68631947.jpg","start_date":"11-11-2022","end_date":"30-11-2022","vote":false,"route":"political-polls","set":[{"id":4.1,"question":"Do you think Bharat Jodo Yatra will help revive Congress's fortunes?","options":["Yes","No","Can't say"],"answer":""},{"id":4.2,"question":"Whom do you see the next PM for India in upcoming election 2024?","options":["Narendra Modi","Rahul Gandhi","Arvind Kejriwal","Mamta Banerjee","Nitish Kumar","Can't say"],"answer":""}]},{"title":"Marvel & DC Universe","description":"This polls is designed only for fun purpose information about Marvel and DC fans and non-fans","cover":"https://deadline.com/wp-content/uploads/2055/03/Marvel-Studios-logo-DC-logo.jpg","start_date":"16-10-2022","end_date":"18-10-2022","vote":false,"route":"marvel-dc","set":[{"id":5.1,"question":"Who is this in picture?","image":"https://w7.pngwing.com/pngs/1/337/png-transparent-magneto-illustration-marvel-avengers-alliance-magneto-cyclops-havok-mystique-magneto-purple-comics-violet.png","options":["Thor","Magneto","Mysterio","Doctor Strange"],"answer":""},{"id":5.2,"question":"What is the real name of Captain America?","image":"","options":["Steve Johns","Steve Rogers","Steve Harper","Captain Rogers"],"answer":""},{"id":5.3,"question":"Who is Thor's sister?","image":"","options":["Wanda","Natasha","Hela","None of the above"],"answer":""},{"id":5.4,"question":"What is the real name of Superman?","image":"https://www.comicbookrevolution.com/wp-content/uploads/2018/04/Superman-1.jpg","options":["Jor-El","Kal-El","Clark Kent","Clark-El"],"answer":""},{"id":5.5,"question":"Black Adam is a ?","image":"https://gumlet.assettype.com/freepressjournal/2020-08/deb7e4e0-05c5-41ed-91d5-839ceabc0a6b/118163559_146192623817160_1171417341171123628_n.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true","options":["Hero","Villain"],"answer":""},{"id":5.6,"question":"Wonder Woman is a member of ?","image":"","options":["Avengers","Justice League","None of the above"],"answer":""},{"id":5.7,"question":"What do you like most?","image":"https://pm1.narvii.com/5859/27760043ae853a3db7d031ceeca4a19611ed0f0b_hq.jpg","options":["Justice League","Avengers","Both","None of the above"],"answer":""},{"id":5.8,"question":"Which of these are you a fan of ?","image":"","options":["DC universe","Marvel universe","Both","None of the above"],"answer":""}]},{"title":"Food & Fun","description":"This polls is designed only for fun purpose information about food lovers","cover":"https://i.pinimg.com/originals/c3/96/29/c396299a3a5e968a11fe818d7cf2716f.png","start_date":"16-10-2022","end_date":"17-10-2022","vote":false,"route":"food-fun","set":[{"id":6.1,"question":"Which food are you love most?","options":["Chinese","Italian","Indian"],"answer":""},{"id":6.2,"question":"Do you like a lot of spices mixed in your food?","options":["Yes","No"],"answer":""},{"id":6.3,"question":"What do you prefer in morning?","options":["Hot Coffee","Green Tea","Coldrink"],"answer":""},{"id":6.4,"question":"Are you ?","options":["Pure Vegetarian","Semi Vegetarian","Semi Non-Vegetarian","Pure Non-Vegetarian"],"answer":""},{"id":6.5,"question":"What will you choose of these to eat daily ?","options":["Cheese Burger","Hot Spicy Noodles","Hot Momos"],"answer":""}]}]
+[
+    {
+        "id":1,
+        "title": "Demographic Consumer Survey",
+        "description": "This survey is to determine consumer behaviour because every customer has different purchasing habits. Refer to the consumer behaviour survey template below and conduct a survey.",
+        "cover": "https://www.marketing91.com/wp-content/uploads/2015/12/demographic.jpg",
+        "start_date": "01-09-2022",
+        "end_date": "01-10-2022",
+        "vote": true,
+        "route": "demographic-consumer-survey",
+        "set": [
+            {
+                "id": 1.1,
+                "question": "How routinely do you shop?",
+                "options": [
+                    "Every week",
+                    "Several times per week",
+                    "Every month",
+                    "Several times per month"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 1.2,
+                "question": "What is your qualifications?",
+                "options": [
+                    "8-10",
+                    "10+2",
+                    "Graduate-PG",
+                    "Uneducated"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 1.3,
+                "question": "What is your current employment status?",
+                "options": [
+                    "Full-time employment",
+                    "Part-time employment",
+                    "Unemployed",
+                    "Self-employed"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 1.4,
+                "question": "How often do you purchase goods(such as garments, gadgets, etc.?",
+                "options": [
+                    "In every month",
+                    "In every quarter",
+                    "In every year",
+                    "Not sure"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 1.5,
+                "question": "Where are you located?",
+                "options": [
+                    "In Metropolitan area",
+                    "In Urban area",
+                    "In Semi urban area",
+                    "In Rural area"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 1.6,
+                "question": "How old are you?",
+                "options": [
+                    "18-25",
+                    "25-35",
+                    "35-50",
+                    "50 and above"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 1.7,
+                "question": "What is your annual income range? ",
+                "options": [
+                    "50-80 thousands",
+                    "80-100 thousands",
+                    "1-1.5 lacs ",
+                    "None of these"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 1.8,
+                "question": "How much do you spend on shopping every month of your income?",
+                "options": [
+                    "20%",
+                    "30%",
+                    "40%",
+                    "Not sure"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 1.9,
+                "question": "What gender do you identify as?",
+                "options": [
+                    "Male",
+                    "Female",
+                    "Other",
+                    "Prefer not to say"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 1.1,
+                "question": "What is your Marital Status?",
+                "options": [
+                    "Married",
+                    "Single",
+                    "Divorced"
+                ],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title": "Social Media Survey",
+        "description": "The social media survey is designed to collect information regarding the social media websites and what are the most preferred activities a person would like to carry out on social media.",
+        "cover": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2022/04/19/1506964-april-teamology-article-16-dna.png",
+        "start_date": "14-10-2022",
+        "end_date": "24-10-2022",
+        "vote": false,
+        "route": "social-media-survey",
+        "set": [
+            {
+                "id": 2.1,
+                "question": "Considering your complete experience with social media websites (Facebook, Twitter, Instagram, etc.), how likely are you to recommend it to your family and friends?",
+                "options": [
+                    "Very Unlikely",
+                    "Unlikely",
+                    "Likely",
+                    "Very Likely"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.2,
+                "question": "Please rate the following social media websites on a scale from 0-10?",
+                "options": [
+                    "Facebook",
+                    "Twitter",
+                    "Instagram",
+                    "Whatsapp",
+                    "Youtube",
+                    "Linkedin"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.3,
+                "question": "Which of the following social media website do you currently have an account with?",
+                "options": [
+                    "Facebook",
+                    "Twitter",
+                    "Instagram",
+                    "Whatsapp",
+                    "Youtube",
+                    "Linkedin"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.4,
+                "question": "How often do you check-in to your social media accounts in any given week?",
+                "options": [
+                    "Daily",
+                    "Every other day",
+                    "Every two days",
+                    "Once a week"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.5,
+                "question": "What is your go-to device to access your social media feed?",
+                "options": [
+                    "Mobile",
+                    "Tablet",
+                    "Laptop",
+                    "Desktop"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.6,
+                "question": "Are you using social media for your business?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.7,
+                "question": "What is your annual income range? ",
+                "options": [
+                    "50-80 thousands",
+                    "80-100 thousands",
+                    "1-1.5 lacs ",
+                    "None of these"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.8,
+                "question": "Are you a public figure or influencer on Facebook or other social media platforms?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.9,
+                "question": "On a regular day how many times do you post pictures, comments, etc. on your social media accounts?",
+                "options": [
+                    "Extremely often",
+                    "Very often",
+                    "Slightly often",
+                    "Not at all often"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.1,
+                "question": " What is your purpose of using social media website?",
+                "options": [
+                    "To make friends",
+                    "To socialize casually",
+                    "To promote products/services",
+                    "To find employment",
+                    "Other"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 2.11,
+                "question": "Which social media application did you first start using?",
+                "options": [
+                    "Facebook",
+                    "Twitter",
+                    "Instagram",
+                    "Whatsapp",
+                    "Youtube",
+                    "Linkedin"
+                ],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "id":3,
+        "title": "Netflix Survey",
+        "description": "This survey is to determine information about Netflix users and how they obtain and stream their video content.",
+        "cover": "https://www.popsci.com/uploads/2019/10/22/AUSBJ7SDRWXMD7VXVNJASUT6ME.jpg?auto=webp",
+        "start_date": "14-10-2022",
+        "end_date": "24-10-2022",
+        "vote": false,
+        "route": "netflix-survey",
+        "set": [
+            {
+                "id": 3.1,
+                "question": "Which online streaming/rental services you currently use ?",
+                "options": [
+                    "Netflix",
+                    "Amazon Prime",
+                    "Disney+Hotstar",
+                    "HBO Max",
+                    "Hulu",
+                    "None"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 3.2,
+                "question": "Do you currently have a Netflix subscription?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 3.3,
+                "question": "How many times you use your Netflix subscription in a given month?",
+                "options": [
+                    "Everyday",
+                    "2-6 times a week",
+                    "Once a week",
+                    "Once a month",
+                    "Less than once a month",
+                    "None"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 3.4,
+                "question": "What portal do you use to stream Netflix content?",
+                "options": [
+                    "Smart Phone",
+                    "Internet TV",
+                    "Play Station",
+                    "Xbox",
+                    "Laptop or Desktop",
+                    "None"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 3.5,
+                "question": "Indicate your overall opinion of your Netflix subscription?",
+                "options": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Dissatisfied",
+                    "Very Dissatisfied",
+                    "None of these"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 3.6,
+                "question": "What do you use your Netflix subscriptions for the most?",
+                "options": [
+                    "Movies",
+                    "Webseries",
+                    "Both",
+                    "None"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 3.7,
+                "question": "Which of these OTT plaform you view as a competitor of Netflix ?",
+                "options": [
+                    "Amazon Prime",
+                    "Disney Hotstar",
+                    "HBO Max",
+                    "Hulu",
+                    "All"
+                ],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "id":4,
+        "title": "Political Polls",
+        "description": "This polls is designed only for to determine public opinions.",
+        "cover": "https://static.toiimg.com/thumb/msid-68631947,width-400,resizemode-4/68631947.jpg",
+        "start_date": "11-11-2022",
+        "end_date": "30-11-2022",
+        "vote": false,
+        "route": "political-polls",
+        "set": [
+            {
+                "id": 4.1,
+                "question": "Do you think Bharat Jodo Yatra will help revive Congress's fortunes?",
+                "options": [
+                    "Yes",
+                    "No",
+                    "Can't say"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 4.2,
+                "question": "Whom do you see the next PM for India in upcoming election 2024?",
+                "options": [
+                    "Narendra Modi",
+                    "Rahul Gandhi",
+                    "Arvind Kejriwal",
+                    "Mamta Banerjee",
+                    "Nitish Kumar",
+                    "Can't say"
+                ],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "id":5,
+        "title": "Marvel & DC Universe",
+        "description": "This polls is designed only for fun purpose information about Marvel and DC fans and non-fans",
+        "cover": "https://deadline.com/wp-content/uploads/2055/03/Marvel-Studios-logo-DC-logo.jpg",
+        "start_date": "16-10-2022",
+        "end_date": "18-10-2022",
+        "vote": false,
+        "route": "marvel-dc",
+        "set": [
+            {
+                "id": 5.1,
+                "question": "Who is this in picture?",
+                "image": "https://w7.pngwing.com/pngs/1/337/png-transparent-magneto-illustration-marvel-avengers-alliance-magneto-cyclops-havok-mystique-magneto-purple-comics-violet.png",
+                "options": [
+                    "Thor",
+                    "Magneto",
+                    "Mysterio",
+                    "Doctor Strange"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 5.2,
+                "question": "What is the real name of Captain America?",
+                "image": "",
+                "options": [
+                    "Steve Johns",
+                    "Steve Rogers",
+                    "Steve Harper",
+                    "Captain Rogers"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 5.3,
+                "question": "Who is Thor's sister?",
+                "image": "",
+                "options": [
+                    "Wanda",
+                    "Natasha",
+                    "Hela",
+                    "None of the above"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 5.4,
+                "question": "What is the real name of Superman?",
+                "image": "https://www.comicbookrevolution.com/wp-content/uploads/2018/04/Superman-1.jpg",
+                "options": [
+                    "Jor-El",
+                    "Kal-El",
+                    "Clark Kent",
+                    "Clark-El"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 5.5,
+                "question": "Black Adam is a ?",
+                "image": "https://gumlet.assettype.com/freepressjournal/2020-08/deb7e4e0-05c5-41ed-91d5-839ceabc0a6b/118163559_146192623817160_1171417341171123628_n.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+                "options": [
+                    "Hero",
+                    "Villain"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 5.6,
+                "question": "Wonder Woman is a member of ?",
+                "image": "",
+                "options": [
+                    "Avengers",
+                    "Justice League",
+                    "None of the above"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 5.7,
+                "question": "What do you like most?",
+                "image": "https://pm1.narvii.com/5859/27760043ae853a3db7d031ceeca4a19611ed0f0b_hq.jpg",
+                "options": [
+                    "Justice League",
+                    "Avengers",
+                    "Both",
+                    "None of the above"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 5.8,
+                "question": "Which of these are you a fan of ?",
+                "image": "",
+                "options": [
+                    "DC universe",
+                    "Marvel universe",
+                    "Both",
+                    "None of the above"
+                ],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "id":6,
+        "title": "Food & Fun",
+        "description": "This polls is designed only for fun purpose information about food lovers",
+        "cover": "https://i.pinimg.com/originals/c3/96/29/c396299a3a5e968a11fe818d7cf2716f.png",
+        "start_date": "16-10-2022",
+        "end_date": "17-10-2022",
+        "vote": false,
+        "route": "food-fun",
+        "set": [
+            {
+                "id": 6.1,
+                "question": "Which food are you love most?",
+                "options": [
+                    "Chinese",
+                    "Italian",
+                    "Indian"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 6.2,
+                "question": "Do you like a lot of spices mixed in your food?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 6.3,
+                "question": "What do you prefer in morning?",
+                "options": [
+                    "Hot Coffee",
+                    "Green Tea",
+                    "Coldrink"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 6.4,
+                "question": "Are you ?",
+                "options": [
+                    "Pure Vegetarian",
+                    "Semi Vegetarian",
+                    "Semi Non-Vegetarian",
+                    "Pure Non-Vegetarian"
+                ],
+                "answer": ""
+            },
+            {
+                "id": 6.5,
+                "question": "What will you choose of these to eat daily ?",
+                "options": [
+                    "Cheese Burger",
+                    "Hot Spicy Noodles",
+                    "Hot Momos"
+                ],
+                "answer": ""
+            }
+        ]
+    }
+]
