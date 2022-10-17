@@ -127,7 +127,7 @@
         "cover": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2022/04/19/1506964-april-teamology-article-16-dna.png",
         "start_date": "14-10-2022",
         "end_date": "24-10-2022",
-        "vote": false,
+        "vote": true,
         "route": "social-media-survey",
         "set": [
             {
