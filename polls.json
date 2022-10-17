@@ -125,8 +125,8 @@
         "title": "Social Media Survey",
         "description": "The social media survey is designed to collect information regarding the social media websites and what are the most preferred activities a person would like to carry out on social media.",
         "cover": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2022/04/19/1506964-april-teamology-article-16-dna.png",
-        "start_date": "14-10-2022",
-        "end_date": "24-10-2022",
+        "start_date": "01-10-2022",
+        "end_date": "10-10-2022",
         "vote": true,
         "route": "social-media-survey",
         "set": [
