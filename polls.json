@@ -261,8 +261,8 @@
         "title": "Netflix Survey",
         "description": "This survey is to determine information about Netflix users and how they obtain and stream their video content.",
         "cover": "https://images.ctfassets.net/4cd45et68cgf/5y7i4snzpqkr2oHRCRAkN4/c144749aa0df745e43367744af149f66/Android_Collage_1920x1080__UCAN_En.jpg",
-        "start_date": "14-10-2022",
-        "end_date": "24-10-2022",
+        "start_date": "28-10-2022",
+        "end_date": "10-11-2022",
         "vote": false,
         "route": "netflix-survey",
         "set": [
@@ -356,8 +356,8 @@
         "title": "Political Polls",
         "description": "This polls is designed only for to determine public opinions.",
         "cover": "https://static.toiimg.com/thumb/msid-68631947,width-400,resizemode-4/68631947.jpg",
-        "start_date": "11-11-2022",
-        "end_date": "30-11-2022",
+        "start_date": "06-11-2022",
+        "end_date": "10-11-2022",
         "vote": false,
         "route": "political-polls",
         "set": [
@@ -383,6 +383,16 @@
                     "Can't say"
                 ],
                 "answer": ""
+            },
+            {
+                "id": 4.3,
+                "question":"Do you think India-UK ties will deepen with Rishi Sunak as Britain's new PM?",
+                "options":[
+                    "Yes",
+                    "No",
+                    "Can't say"
+                ],
+                "answer": ""
             }
         ]
     },
@@ -391,8 +401,8 @@
         "title": "Marvel & DC Universe",
         "description": "This polls is designed only for fun purpose information about Marvel and DC fans and non-fans",
         "cover": "https://deadline.com/wp-content/uploads/2055/03/Marvel-Studios-logo-DC-logo.jpg",
-        "start_date": "16-10-2022",
-        "end_date": "18-10-2022",
+        "start_date": "06-11-2022",
+        "end_date": "10-11-2022",
         "vote": false,
         "route": "marvel-dc",
         "set": [
@@ -446,6 +456,17 @@
             },
             {
                 "id": 5.5,
+                "question": "Who are in this picture?",
+                "image":"https://pbs.twimg.com/media/ECdCmCOVUAACIWD.jpg",
+                "options": [
+                    "Spiderman and Batman",
+                    "Spiderman and Phantom",
+                    "Batman and Spidergirl"
+                ],
+                "answer":""
+            },
+            {
+                "id": 5.6,
                 "question": "Black Adam is a ?",
                 "image": "https://gumlet.assettype.com/freepressjournal/2020-08/deb7e4e0-05c5-41ed-91d5-839ceabc0a6b/118163559_146192623817160_1171417341171123628_n.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
                 "options": [
@@ -455,24 +476,12 @@
                 "answer": ""
             },
             {
-                "id": 5.6,
+                "id": 5.7,
                 "question": "Wonder Woman is a member of ?",
                 "image": "",
                 "options": [
                     "Avengers",
                     "Justice League",
-                    "None of the above"
-                ],
-                "answer": ""
-            },
-            {
-                "id": 5.7,
-                "question": "What do you like most?",
-                "image": "https://pm1.narvii.com/5859/27760043ae853a3db7d031ceeca4a19611ed0f0b_hq.jpg",
-                "options": [
-                    "Justice League",
-                    "Avengers",
-                    "Both",
                     "None of the above"
                 ],
                 "answer": ""
@@ -496,8 +505,8 @@
         "title": "Food & Fun",
         "description": "This polls is designed only for fun purpose information about food lovers",
         "cover": "https://i.pinimg.com/originals/c3/96/29/c396299a3a5e968a11fe818d7cf2716f.png",
-        "start_date": "16-10-2022",
-        "end_date": "17-10-2022",
+        "start_date": "01-11-2022",
+        "end_date": "07-11-2022",
         "vote": false,
         "route": "food-fun",
         "set": [
