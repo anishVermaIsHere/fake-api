@@ -503,7 +503,7 @@
         "id":6,
         "title": "Food & Fun",
         "description": "This polls is designed only for fun purpose information about food lovers",
-        "cover": "https://i.pinimg.com/originals/c3/96/29/c396299a3a5e968a11fe818d7cf2716f.png",
+        "cover": "https://cdn.virily.com/wp-content/uploads/2017/11/10-reasons-why-vegetarians-live-longer.jpg",
         "start_date": "01-11-2022",
         "end_date": "07-11-2022",
         "vote": false,
@@ -532,9 +532,10 @@
                 "id": 6.3,
                 "question": "What do you prefer in morning?",
                 "options": [
-                    "Hot Coffee",
+                    "Tea",
                     "Green Tea",
-                    "Coldrink"
+                    "Coffee",
+                    "Milk"
                 ],
                 "answer": ""
             },
@@ -551,11 +552,11 @@
             },
             {
                 "id": 6.5,
-                "question": "What will you choose of these to eat daily ?",
+                "question": "Where do you usually like to go to eat?",
                 "options": [
-                    "Cheese Burger",
-                    "Hot Spicy Noodles",
-                    "Hot Momos"
+                    "Near Street",
+                    "Restaurant",
+                    "Hotel"
                 ],
                 "answer": ""
             }
