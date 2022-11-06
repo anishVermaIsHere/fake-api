@@ -20,8 +20,27 @@
 			background-image:linear-gradient(#1d7c4d,#31453b);
 			color: #fff;
 		}
+		main p {
+			padding: 1rem 1.5rem;
+		}
 		main section{
 			padding: 20px 50px;
+			display: flex;
+			/* justify-content: center; */
+			gap:2.22rem;
+		}
+		main section .card {
+			border-radius: 0.5rem;
+			background-color: #2c2f2e;
+			padding: 0.55rem 1rem;
+			height:120px;
+			width: 200px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+		main section .card a {
+			color:#fff;
 		}
 		main section > p {
 			margin-top: 20px;
@@ -44,15 +63,19 @@
 			<p id="time"></p>
 		</header>
 		<main>
+			<p>This page is for fake JSON </p>
+			<p>Click here</p>
 			<section>
-				<p>This page is for fake JSON </p>
-				<p>Click here</p>
-				<a href='https://anishvermaishere.github.io/fake-api/products.json'>
-					<p>ecommerce products</p>
-				</a>
-				<a href='https://anishvermaishere.github.io/fake-api/polls.json'>
-					<p>polls questions</p>
-				</a>
+				<div class="card">
+					<a href='https://anishvermaishere.github.io/fake-api/products.json'>
+						<p>ecommerce products</p>
+					</a>
+				</div>
+				<div class="card">
+					<a href='https://anishvermaishere.github.io/fake-api/polls.json'>
+						<p>polls questions</p>
+					</a>	
+				</div>
 			</section>
 		</main>
 		<footer>
