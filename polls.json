@@ -503,7 +503,7 @@
         "id":6,
         "title": "Food & Fun",
         "description": "This polls is designed only for fun purpose information about food lovers",
-        "cover": "https://cdn.virily.com/wp-content/uploads/2017/11/10-reasons-why-vegetarians-live-longer.jpg",
+        "cover": "https://cdni.iconscout.com/illustration/premium/thumb/fast-food-vs-vegetarian-meals-4382878-3639508.png",
         "start_date": "01-11-2022",
         "end_date": "07-11-2022",
         "vote": false,
@@ -512,6 +512,7 @@
             {
                 "id": 6.1,
                 "question": "Which food are you love most?",
+                "image":"https://thumbs.dreamstime.com/b/%CE%B9%CE%B1%CE%BD%CF%85%CF%83%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AC-%CE%B5%CE%BC%CE%B2-%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CF%83%CF%87%CE%B5-%CE%AF%CE%BF%CF%85-%CE%BC%CE%B5-%CF%84%CE%B1-%CE%B9%CF%84%CE%B1-%CE%B9%CE%BA%CE%AC-%CE%BC%CE%B5%CE%BE%CE%B9%CE%BA%CE%AC%CE%BD%CE%B9%CE%BA%CE%B1-%CE%BA%CE%B9%CE%BD%CE%AD%CE%B6%CE%B9%CE%BA%CE%B1-%CE%BA%CE%B1%CE%B9-69024519.jpg",
                 "options": [
                     "Chinese",
                     "Italian",
@@ -522,6 +523,7 @@
             {
                 "id": 6.2,
                 "question": "Do you like a lot of spices mixed in your food?",
+                "image":"https://library.kissclipart.com/20181213/gqw/kissclipart-hot-pepper-png-clipart-chili-con-carne-chili-peppe-beb222708c1ae2aa.png",
                 "options": [
                     "Yes",
                     "No"
@@ -531,6 +533,7 @@
             {
                 "id": 6.3,
                 "question": "What do you prefer in morning?",
+                "image":"https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2015/07/12/Incoming/Pictures/tea-coffee-illustration_40801189-29fc-11e5-a8da-005056b4648e.jpg",
                 "options": [
                     "Tea",
                     "Green Tea",
@@ -542,6 +545,7 @@
             {
                 "id": 6.4,
                 "question": "Are you ?",
+                "image":"https://cdn.virily.com/wp-content/uploads/2017/11/10-reasons-why-vegetarians-live-longer.jpg",
                 "options": [
                     "Pure Vegetarian",
                     "Semi Vegetarian",
