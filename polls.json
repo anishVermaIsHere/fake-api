@@ -353,13 +353,13 @@
     },
     {
         "id":4,
-        "title": "Political Polls",
+        "title": "Politics & Public",
         "description": "This polls is designed only for to determine public opinions.",
         "cover": "https://static.toiimg.com/thumb/msid-68631947,width-400,resizemode-4/68631947.jpg",
         "start_date": "06-11-2022",
         "end_date": "10-11-2022",
         "vote": false,
-        "route": "political-polls",
+        "route": "politics-public",
         "set": [
             {
                 "id": 4.1,
