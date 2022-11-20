@@ -109,7 +109,7 @@
                 "answer": ""
             },
             {
-                "id": 1.1,
+                "id": 1.10,
                 "question": "What is your Marital Status?",
                 "options": [
                     "Married",
@@ -200,17 +200,6 @@
             },
             {
                 "id": 2.7,
-                "question": "What is your annual income range? ",
-                "options": [
-                    "50-80 thousands",
-                    "80-100 thousands",
-                    "1-1.5 lacs ",
-                    "None of these"
-                ],
-                "answer": ""
-            },
-            {
-                "id": 2.8,
                 "question": "Are you a public figure or influencer on Facebook or other social media platforms?",
                 "options": [
                     "Yes",
@@ -219,7 +208,7 @@
                 "answer": ""
             },
             {
-                "id": 2.9,
+                "id": 2.8,
                 "question": "On a regular day how many times do you post pictures, comments, etc. on your social media accounts?",
                 "options": [
                     "Extremely often",
@@ -230,7 +219,7 @@
                 "answer": ""
             },
             {
-                "id": 2.1,
+                "id": 2.9,
                 "question": " What is your purpose of using social media website?",
                 "options": [
                     "To make friends",
@@ -242,7 +231,7 @@
                 "answer": ""
             },
             {
-                "id": 2.11,
+                "id": 2.10,
                 "question": "Which social media application did you first start using?",
                 "options": [
                     "Facebook",
