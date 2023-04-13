@@ -14,7 +14,7 @@
     "description": "description 2",
     "status": "Done",
     "due_date": 1676378073,
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [{"name":"print","color":"green"}],
     "id": "2"
     },
     {
@@ -32,7 +32,7 @@
     "description": "description 4",
     "status": "Done",
     "due_date": 1676377953,
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [{"name":"print","color":"green"}],
     "id": "4"
     },
     {
@@ -59,7 +59,7 @@
     "description": "description 7",
     "status": "Done",
     "due_date": 1676377773,
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [{"name":"print","color":"green"},{"name":"urgent","color":"blue"}],
     "id": "7"
     },
     {
@@ -147,9 +147,9 @@
     "created_at": 1676377173,
     "title": "task 17",
     "description": "description 17",
-    "status": "Open",
+    "status": "Done",
     "due_date": 1676377173,
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [{"name":"email","color":"purple"},{"name":"print","color":"green"}],
     "id": "17"
     },
     {
