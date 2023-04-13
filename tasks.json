@@ -1,4 +1,4 @@
-export const mockdata=[
+[
     {
     "created_at": 1676378133,
     "title": "task 1",
