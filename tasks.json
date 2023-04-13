@@ -1,452 +1,272 @@
-[
-{
-"created_at": 1676378133,
-"title": "title 1",
-"description": "description 1",
-"status": "status 1",
-"due_date": 1676378133,
-"labels": [],
-"id": "1"
-},
-{
-"created_at": 1676378073,
-"title": "title 2",
-"description": "description 2",
-"status": "status 2",
-"due_date": 1676378073,
-"labels": [],
-"id": "2"
-},
-{
-"created_at": 1676378013,
-"title": "title 3",
-"description": "description 3",
-"status": "status 3",
-"due_date": 1676378013,
-"labels": [],
-"id": "3"
-},
-{
-"created_at": 1676377953,
-"title": "title 4",
-"description": "description 4",
-"status": "status 4",
-"due_date": 1676377953,
-"labels": [],
-"id": "4"
-},
-{
-"created_at": 1676377893,
-"title": "title 5",
-"description": "description 5",
-"status": "status 5",
-"due_date": 1676377893,
-"labels": [],
-"id": "5"
-},
-{
-"created_at": 1676377833,
-"title": "title 6",
-"description": "description 6",
-"status": "status 6",
-"due_date": 1676377833,
-"labels": [],
-"id": "6"
-},
-{
-"created_at": 1676377773,
-"title": "title 7",
-"description": "description 7",
-"status": "status 7",
-"due_date": 1676377773,
-"labels": [],
-"id": "7"
-},
-{
-"created_at": 1676377713,
-"title": "title 8",
-"description": "description 8",
-"status": "status 8",
-"due_date": 1676377713,
-"labels": [],
-"id": "8"
-},
-{
-"created_at": 1676377653,
-"title": "title 9",
-"description": "description 9",
-"status": "status 9",
-"due_date": 1676377653,
-"labels": [],
-"id": "9"
-},
-{
-"created_at": 1676377593,
-"title": "title 10",
-"description": "description 10",
-"status": "status 10",
-"due_date": 1676377593,
-"labels": [],
-"id": "10"
-},
-{
-"created_at": 1676377533,
-"title": "title 11",
-"description": "description 11",
-"status": "status 11",
-"due_date": 1676377533,
-"labels": [],
-"id": "11"
-},
-{
-"created_at": 1676377473,
-"title": "title 12",
-"description": "description 12",
-"status": "status 12",
-"due_date": 1676377473,
-"labels": [],
-"id": "12"
-},
-{
-"created_at": 1676377413,
-"title": "title 13",
-"description": "description 13",
-"status": "status 13",
-"due_date": 1676377413,
-"labels": [],
-"id": "13"
-},
-{
-"created_at": 1676377353,
-"title": "title 14",
-"description": "description 14",
-"status": "status 14",
-"due_date": 1676377353,
-"labels": [],
-"id": "14"
-},
-{
-"created_at": 1676377293,
-"title": "title 15",
-"description": "description 15",
-"status": "status 15",
-"due_date": 1676377293,
-"labels": [],
-"id": "15"
-},
-{
-"created_at": 1676377233,
-"title": "title 16",
-"description": "description 16",
-"status": "status 16",
-"due_date": 1676377233,
-"labels": [],
-"id": "16"
-},
-{
-"created_at": 1676377173,
-"title": "title 17",
-"description": "description 17",
-"status": "status 17",
-"due_date": 1676377173,
-"labels": [],
-"id": "17"
-},
-{
-"created_at": 1676377113,
-"title": "title 18",
-"description": "description 18",
-"status": "status 18",
-"due_date": 1676377113,
-"labels": [],
-"id": "18"
-},
-{
-"created_at": 1676377053,
-"title": "title 19",
-"description": "description 19",
-"status": "status 19",
-"due_date": 1676377053,
-"labels": [],
-"id": "19"
-},
-{
-"created_at": 1676376993,
-"title": "title 20",
-"description": "description 20",
-"status": "status 20",
-"due_date": 1676376993,
-"labels": [],
-"id": "20"
-},
-{
-"created_at": 1676376933,
-"title": "title 21",
-"description": "description 21",
-"status": "status 21",
-"due_date": 1676376933,
-"labels": [],
-"id": "21"
-},
-{
-"created_at": 1676376873,
-"title": "title 22",
-"description": "description 22",
-"status": "status 22",
-"due_date": 1676376873,
-"labels": [],
-"id": "22"
-},
-{
-"created_at": 1676376813,
-"title": "title 23",
-"description": "description 23",
-"status": "status 23",
-"due_date": 1676376813,
-"labels": [],
-"id": "23"
-},
-{
-"created_at": 1676376753,
-"title": "title 24",
-"description": "description 24",
-"status": "status 24",
-"due_date": 1676376753,
-"labels": [],
-"id": "24"
-},
-{
-"created_at": 1676376693,
-"title": "title 25",
-"description": "description 25",
-"status": "status 25",
-"due_date": 1676376693,
-"labels": [],
-"id": "25"
-},
-{
-"created_at": 1676376633,
-"title": "title 26",
-"description": "description 26",
-"status": "status 26",
-"due_date": 1676376633,
-"labels": [],
-"id": "26"
-},
-{
-"created_at": 1676376573,
-"title": "title 27",
-"description": "description 27",
-"status": "status 27",
-"due_date": 1676376573,
-"labels": [],
-"id": "27"
-},
-{
-"created_at": 1676376513,
-"title": "title 28",
-"description": "description 28",
-"status": "status 28",
-"due_date": 1676376513,
-"labels": [],
-"id": "28"
-},
-{
-"created_at": 1676376453,
-"title": "title 29",
-"description": "description 29",
-"status": "status 29",
-"due_date": 1676376453,
-"labels": [],
-"id": "29"
-},
-{
-"created_at": 1676376393,
-"title": "title 30",
-"description": "description 30",
-"status": "status 30",
-"due_date": 1676376393,
-"labels": [],
-"id": "30"
-},
-{
-"created_at": 1676376333,
-"title": "title 31",
-"description": "description 31",
-"status": "status 31",
-"due_date": 1676376333,
-"labels": [],
-"id": "31"
-},
-{
-"created_at": 1676376273,
-"title": "title 32",
-"description": "description 32",
-"status": "status 32",
-"due_date": 1676376273,
-"labels": [],
-"id": "32"
-},
-{
-"created_at": 1676376213,
-"title": "title 33",
-"description": "description 33",
-"status": "status 33",
-"due_date": 1676376213,
-"labels": [],
-"id": "33"
-},
-{
-"created_at": 1676376153,
-"title": "title 34",
-"description": "description 34",
-"status": "status 34",
-"due_date": 1676376153,
-"labels": [],
-"id": "34"
-},
-{
-"created_at": 1676376093,
-"title": "title 35",
-"description": "description 35",
-"status": "status 35",
-"due_date": 1676376093,
-"labels": [],
-"id": "35"
-},
-{
-"created_at": 1676376033,
-"title": "title 36",
-"description": "description 36",
-"status": "status 36",
-"due_date": 1676376033,
-"labels": [],
-"id": "36"
-},
-{
-"created_at": 1676375973,
-"title": "title 37",
-"description": "description 37",
-"status": "status 37",
-"due_date": 1676375973,
-"labels": [],
-"id": "37"
-},
-{
-"created_at": 1676375913,
-"title": "title 38",
-"description": "description 38",
-"status": "status 38",
-"due_date": 1676375913,
-"labels": [],
-"id": "38"
-},
-{
-"created_at": 1676375853,
-"title": "title 39",
-"description": "description 39",
-"status": "status 39",
-"due_date": 1676375853,
-"labels": [],
-"id": "39"
-},
-{
-"created_at": 1676375793,
-"title": "title 40",
-"description": "description 40",
-"status": "status 40",
-"due_date": 1676375793,
-"labels": [],
-"id": "40"
-},
-{
-"created_at": 1676375733,
-"title": "title 41",
-"description": "description 41",
-"status": "status 41",
-"due_date": 1676375733,
-"labels": [],
-"id": "41"
-},
-{
-"created_at": 1676375673,
-"title": "title 42",
-"description": "description 42",
-"status": "status 42",
-"due_date": 1676375673,
-"labels": [],
-"id": "42"
-},
-{
-"created_at": 1676375613,
-"title": "title 43",
-"description": "description 43",
-"status": "status 43",
-"due_date": 1676375613,
-"labels": [],
-"id": "43"
-},
-{
-"created_at": 1676375553,
-"title": "title 44",
-"description": "description 44",
-"status": "status 44",
-"due_date": 1676375553,
-"labels": [],
-"id": "44"
-},
-{
-"created_at": 1676375493,
-"title": "title 45",
-"description": "description 45",
-"status": "status 45",
-"due_date": 1676375493,
-"labels": [],
-"id": "45"
-},
-{
-"created_at": 1676375433,
-"title": "title 46",
-"description": "description 46",
-"status": "status 46",
-"due_date": 1676375433,
-"labels": [],
-"id": "46"
-},
-{
-"created_at": 1676375373,
-"title": "title 47",
-"description": "description 47",
-"status": "status 47",
-"due_date": 1676375373,
-"labels": [],
-"id": "47"
-},
-{
-"created_at": 1676375313,
-"title": "title 48",
-"description": "description 48",
-"status": "status 48",
-"due_date": 1676375313,
-"labels": [],
-"id": "48"
-},
-{
-"created_at": 1676375253,
-"title": "title 49",
-"description": "description 49",
-"status": "status 49",
-"due_date": 1676375253,
-"labels": [],
-"id": "49"
-},
-{
-"created_at": 1676375193,
-"title": "title 50",
-"description": "description 50",
-"status": "status 50",
-"due_date": 1676375193,
-"labels": [],
-"id": "50"
-}
+export const mockdata=[
+    {
+    "created_at": 1676378133,
+    "title": "task 1",
+    "description": "description 1",
+    "status": "Working",
+    "due_date": 1676378133,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "1"
+    },
+    {
+    "created_at": 1676378073,
+    "title": "task 2",
+    "description": "description 2",
+    "status": "Done",
+    "due_date": 1676378073,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "2"
+    },
+    {
+    "created_at": 1676378013,
+    "title": "task 3",
+    "description": "description 3",
+    "status": "Open",
+    "due_date": 1676378013,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "3"
+    },
+    {
+    "created_at": 1676377953,
+    "title": "task 4",
+    "description": "description 4",
+    "status": "Done",
+    "due_date": 1676377953,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "4"
+    },
+    {
+    "created_at": 1676377893,
+    "title": "task 5",
+    "description": "description 5",
+    "status": "Working",
+    "due_date": 1676377893,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "5"
+    },
+    {
+    "created_at": 1676377833,
+    "title": "task 6",
+    "description": "description 6",
+    "status": "Overdue",
+    "due_date": 1676377833,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "6"
+    },
+    {
+    "created_at": 1676377773,
+    "title": "task 7",
+    "description": "description 7",
+    "status": "Done",
+    "due_date": 1676377773,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "7"
+    },
+    {
+    "created_at": 1676377713,
+    "title": "task 8",
+    "description": "description 8",
+    "status": "Done",
+    "due_date": 1676377713,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "8"
+    },
+    {
+    "created_at": 1676377653,
+    "title": "task 9",
+    "description": "description 9",
+    "status": "Working",
+    "due_date": 1676377653,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "9"
+    },
+    {
+    "created_at": 1676377593,
+    "title": "task 10",
+    "description": "description 10",
+    "status": "Open",
+    "due_date": 1676377593,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "10"
+    },
+    {
+    "created_at": 1676377533,
+    "title": "task 11",
+    "description": "description 11",
+    "status": "Working",
+    "due_date": 1676377533,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "11"
+    },
+    {
+    "created_at": 1676377473,
+    "title": "task 12",
+    "description": "description 12",
+    "status": "Working",
+    "due_date": 1676377473,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "12"
+    },
+    {
+    "created_at": 1676377413,
+    "title": "task 13",
+    "description": "description 13",
+    "status": "Working",
+    "due_date": 1676377413,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "13"
+    },
+    {
+    "created_at": 1676377353,
+    "title": "task 14",
+    "description": "description 14",
+    "status": "Working",
+    "due_date": 1676377353,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "14"
+    },
+    {
+    "created_at": 1676377293,
+    "title": "task 15",
+    "description": "description 15",
+    "status": "Working",
+    "due_date": 1676377293,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "15"
+    },
+    {
+    "created_at": 1676377233,
+    "title": "task 16",
+    "description": "description 16",
+    "status": "Working",
+    "due_date": 1676377233,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "16"
+    },
+    {
+    "created_at": 1676377173,
+    "title": "task 17",
+    "description": "description 17",
+    "status": "Open",
+    "due_date": 1676377173,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "17"
+    },
+    {
+    "created_at": 1676377113,
+    "title": "task 18",
+    "description": "description 18",
+    "status": "Done",
+    "due_date": 1676377113,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "18"
+    },
+    {
+    "created_at": 1676377053,
+    "title": "task 19",
+    "description": "description 19",
+    "status": "Open",
+    "due_date": 1676377053,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "19"
+    },
+    {
+    "created_at": 1676376993,
+    "title": "task 20",
+    "description": "description 20",
+    "status": "Done",
+    "due_date": 1676376993,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "20"
+    },
+    {
+    "created_at": 1676376933,
+    "title": "task 21",
+    "description": "description 21",
+    "status": "Done",
+    "due_date": 1676376933,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "21"
+    },
+    {
+    "created_at": 1676376873,
+    "title": "task 22",
+    "description": "description 22",
+    "status": "Done",
+    "due_date": 1676376873,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "22"
+    },
+    {
+    "created_at": 1676376813,
+    "title": "task 23",
+    "description": "description 23",
+    "status": "Done",
+    "due_date": 1676376813,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "23"
+    },
+    {
+    "created_at": 1676376753,
+    "title": "task 24",
+    "description": "description 24",
+    "status": "Overdue",
+    "due_date": 1676376753,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "24"
+    },
+    {
+    "created_at": 1676376693,
+    "title": "task 25",
+    "description": "description 25",
+    "status": "Overdue",
+    "due_date": 1676376693,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "25"
+    },
+    {
+    "created_at": 1676376633,
+    "title": "task 26",
+    "description": "description 26",
+    "status": "Overdue",
+    "due_date": 1676376633,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "26"
+    },
+    {
+    "created_at": 1676376573,
+    "title": "task 27",
+    "description": "description 27",
+    "status": "Done",
+    "due_date": 1676376573,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "27"
+    },
+    {
+    "created_at": 1676376513,
+    "title": "task 28",
+    "description": "description 28",
+    "status": "Open",
+    "due_date": 1676376513,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "28"
+    },
+    {
+    "created_at": 1676376453,
+    "title": "task 29",
+    "description": "description 29",
+    "status": "Done",
+    "due_date": 1676376453,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "29"
+    },
+    {
+    "created_at": 1676376393,
+    "title": "task 30",
+    "description": "description 30",
+    "status": "Done",
+    "due_date": 1676376393,
+    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "id": "30"
+    }
 ]
