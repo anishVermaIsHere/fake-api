@@ -5,7 +5,7 @@
     "description": "print cash book",
     "status": "Working",
     "due_date": "2022-03-20",
-    "labels": [{"name":"print","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": ["print"],
     "id": "1"
     },
     {
@@ -14,7 +14,7 @@
     "description": "print reports fy 2021",
     "status": "Done",
     "due_date": "2023-02-27",
-    "labels": [{"name":"print","color":"green"}],
+    "labels": ["print"],
     "id": "2"
     },
     {
@@ -23,7 +23,7 @@
     "description": "unit testing ",
     "status": "Open",
     "due_date": "2023-03-20",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": ["bug"],
     "id": "3"
     },
     {
@@ -32,7 +32,7 @@
     "description": "send emails",
     "status": "Done",
     "due_date": "",
-    "labels": [{"name":"email","color":"green"}],
+    "labels": ["email"],
     "id": "4"
     },
     {
@@ -41,7 +41,7 @@
     "description": "send emails to clients",
     "status": "Working",
     "due_date": "",
-    "labels": [{"name":"email","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": ["email"],
     "id": "5"
     },
     {
@@ -50,7 +50,7 @@
     "description": "rent to be paid",
     "status": "Overdue",
     "due_date": "2022-03-26",
-    "labels": [{"name":"payment","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": ["payment","urgent"],
     "id": "6"
     },
     {
@@ -59,7 +59,7 @@
     "description": "description 7",
     "status": "Done",
     "due_date": "",
-    "labels": [{"name":"print","color":"green"},{"name":"urgent","color":"blue"}],
+    "labels": ["print","urgent"],
     "id": "7"
     },
     {
@@ -68,7 +68,7 @@
     "description": "description 8",
     "status": "Done",
     "due_date": "2022-06-2",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "8"
     },
     {
@@ -77,7 +77,7 @@
     "description": "description 9",
     "status": "Working",
     "due_date": "2022-06-1",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "9"
     },
     {
@@ -86,7 +86,7 @@
     "description": "description 10",
     "status": "Open",
     "due_date": "",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "10"
     },
     {
@@ -95,7 +95,7 @@
     "description": "pay salaries to employees",
     "status": "Working",
     "due_date": "",
-    "labels": [{"name":"payment","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": ["payment","urgent"],
     "id": "11"
     },
     {
@@ -104,7 +104,7 @@
     "description": "unit testing ",
     "status": "Working",
     "due_date": "2022-04-18",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": ["bug","urgent"],
     "id": "12"
     },
     {
@@ -113,7 +113,7 @@
     "description": "description 13",
     "status": "Working",
     "due_date": "",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "13"
     },
     {
@@ -122,7 +122,7 @@
     "description": "description 14",
     "status": "Working",
     "due_date": "",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "14"
     },
     {
@@ -131,7 +131,7 @@
     "description": "description 15",
     "status": "Working",
     "due_date": "",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "15"
     },
     {
@@ -140,7 +140,7 @@
     "description": "description 16",
     "status": "Working",
     "due_date": "",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "16"
     },
     {
@@ -149,7 +149,7 @@
     "description": "description 17",
     "status": "Done",
     "due_date": "",
-    "labels": [{"name":"email","color":"purple"},{"name":"print","color":"green"}],
+    "labels": ["done"],
     "id": "17"
     },
     {
@@ -158,7 +158,7 @@
     "description": "audit accounts fy 2021-22",
     "status": "Done",
     "due_date": "2022-08-30",
-    "labels": [{"name":"account","color":"green"},{"name":"audit","color":"blue"}],
+    "labels": ["account","audit"],
     "id": "18"
     },
     {
@@ -167,7 +167,7 @@
     "description": "description 19",
     "status": "Open",
     "due_date": "",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "19"
     },
     {
@@ -176,7 +176,7 @@
     "description": "description 20",
     "status": "Done",
     "due_date": "",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "20"
     },
     {
@@ -185,7 +185,7 @@
     "description": "print last weeks emails",
     "status": "Done",
     "due_date": "2022-07-9",
-    "labels": [{"name":"print","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": ["print","urgent"],
     "id": "21"
     },
     {
@@ -194,7 +194,7 @@
     "description": "description 22",
     "status": "Done",
     "due_date": "",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": ["done"],
     "id": "22"
     },
     {
@@ -203,7 +203,7 @@
     "description": "description 23",
     "status": "Done",
     "due_date": "",
-    "labels": [{"name":"new","color":"blue"}],
+    "labels": ["new"],
     "id": "23"
     },
     {
@@ -212,7 +212,7 @@
     "description": "description 24",
     "status": "Overdue",
     "due_date": "",
-    "labels": [{"name":"new","color":"blue"}],
+    "labels": ["urgent"],
     "id": "24"
     },
     {
@@ -221,7 +221,7 @@
     "description": "description 25",
     "status": "Overdue",
     "due_date": "",
-    "labels": [{"name":"new","color":"blue"}],
+    "labels": ["new"],
     "id": "25"
     },
     {
@@ -230,7 +230,7 @@
     "description": "description 26",
     "status": "Overdue",
     "due_date": "",
-    "labels": [{"name":"bug","color":"red"},{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "26"
     },
     {
@@ -239,7 +239,7 @@
     "description": "unit testing",
     "status": "Done",
     "due_date": "2022-12-05",
-    "labels": [{"name":"bug","color":"red"}],
+    "labels": ["bug"],
     "id": "27"
     },
     {
@@ -248,7 +248,7 @@
     "description": "description 28",
     "status": "Open",
     "due_date": "",
-    "labels": [{"name":"new","color":"blue"}],
+    "labels": [],
     "id": "28"
     },
     {
@@ -257,7 +257,7 @@
     "description": "description 29",
     "status": "Done",
     "due_date": "",
-    "labels": [{"name":"urgent","color":"blue"}],
+    "labels": [],
     "id": "29"
     },
     {
