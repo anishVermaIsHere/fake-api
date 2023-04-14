@@ -212,7 +212,7 @@
     "description": "description 24",
     "status": "Overdue",
     "due_date": "",
-    "labels": [{"name":"new","color":"blue"},],
+    "labels": [{"name":"new","color":"blue"}],
     "id": "24"
     },
     {
@@ -221,7 +221,7 @@
     "description": "description 25",
     "status": "Overdue",
     "due_date": "",
-    "labels": [{"name":"new","color":"blue"},],
+    "labels": [{"name":"new","color":"blue"}],
     "id": "25"
     },
     {
