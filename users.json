@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Bob Garfield",
+        "age":"40",
+        "sex":"Male",
+        "id":"1"
+    },
+    {
+        "name":"Maria Garfield",
+        "age":"30",
+        "sex":"Female",
+        "id":"2"
+    },
+    {
+        "name":"Tia Smith",
+        "age":"28",
+        "sex":"Female",
+        "id":"3"
+    },
+    {
+        "name":"Austin Stone",
+        "age":"25",
+        "sex":"Male",
+        "id":"4"
+    },
+    {
+        "name":"Tim M. Edwards",
+        "age":"40",
+        "sex":"Male",
+        "id":"5"
+    }
+]
