@@ -1,3 +1,5 @@
+<!-- author: Anish Verma -->
+
 <!DOCTYPE html>
 <html>
 
@@ -12,44 +14,55 @@
 	<title>Fake JSON</title>
 
 	<style type="text/css">
-		@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
-
+		@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+		
 		* {
 			margin: 0;
 			padding: 0;
 		}
-
+		body {
+			background-color: #baa8f0;
+			font-family: 'Inter', sans-serif;
+		}
 		a {
 			text-decoration: none;
 		}
-
-		.container {
-			background: #fff;
-			font-family: 'Prompt', sans-serif;
+		.app-container {
 			height: 100vh;
+			flex-basis: 100%;
+			display: flex;
+			justify-content: space-between;
+			flex-direction: column;
 		}
-
 		header {
 			padding: 40px 50px;
-			background-image: linear-gradient(#1d7c4d, #31453b);
+			background-image: linear-gradient(#573dca, #261951);
 			color: #fff;
 		}
-
-		main p {
-			padding: 1rem 1.5rem;
+		main {
+			margin-bottom: 50px;
 		}
-
+		main .main-heading {
+			padding: 1rem 1.5rem;
+			color: #261951;
+			font-weight: 600;
+		}
+		
 		main section .card {
 			border-radius: 0.5rem;
-			background: #3b3b3b;
+			background-image: linear-gradient(#3a2695, #261951);
+			box-shadow: 0 0 6px #7768bb;
 			padding: 1rem 0;
 			height: 150px;
-			width: 200px;
+			width: 240px;
+			border: none;
+			transition: all 1s;
 		}
 
 		main section .card:hover {
-			background-image: linear-gradient(#1d7c4d, #31453b);
-			transition: all .8s;
+			background-image: linear-gradient(#3b1b99,#644bd4);
+			transform: translateY(-10px);
+			box-shadow: 4px 8px 8px #000;
 		}
 
 		main section .card .card-body p {
@@ -64,39 +77,55 @@
 		footer {
 			background-color: #2b2f31;
 			color: #fff;
-			padding: 0.33rem 2rem;
+			padding: 0.5rem 2rem;
 		}
-
+		@media (max-width:768px){
+			body {
+				background-color: #b8d8f1;
+			}
+			header {
+				background-image: linear-gradient(#1057bc, #094cb1);
+			}
+			main section .card {
+				background-image: linear-gradient(#1a64b8, #24559f);
+			}
+			main section .card:hover {
+				background-image: linear-gradient(#2573cd, #173665);
+			}
+		}
 		@media (max-width: 567px) {
 			header {
 				padding: 20px 20px;
 			}
-
-			main section {
-				justify-content: center;
+			main section .card {
+				width: 100%;
 			}
 		}
+		
 	</style>
 </head>
 
 <body>
-	<div class="container-fluid position-relative">
+	<div class="app-container">
 		<header>
 			<h2>Fake JSON { } </h2>
 			<p id="time"></p>
 		</header>
-		<main>
-			<p>This page is for fake JSON </p>
-			<section class="row gap-2 px-2" id="api-section"></section>
+		<main class="container-fluid">
+			<p class="fs-4 main-heading">Click any card </p>
+			<section class="row gap-3 m-3" id="api-section"></section>
 		</main>
-		<footer class="position-fixed bottom-0 start-0 end-0">
-			<div id="footer"></div>
+		<footer class="w-100">
+			<div class="text-center" id="copyright"></div>
 		</footer>
 	</div>
 </body>
 <script>
+	/**
+	 * @author Anish Verma (https://github.com/anishVermaIsHere/fake-api)
+	*/
 	document.querySelector('#time').innerHTML = new Date();
-	document.querySelector('#footer').innerHTML = 'Fake JSON | Copyright ' + new Date().getFullYear();
+	document.querySelector('#copyright').innerHTML = 'Copyright. All Rights Reserved | Fake JSON  | Designed by Anish Verma' + new Date().getFullYear();
 
 	const baseUrl = 'https://anishvermaishere.github.io/fake-api/'
 	const apiList = [
@@ -141,7 +170,14 @@
 			description: 'List of yugioh cards',
 			url: baseUrl + 'yugioh.json',
 			id: 7
+		},
+		{
+			title: 'Books',
+			description: 'List of books',
+			url: baseUrl + 'books.json',
+			id: 8
 		}
+	
 	]
 
 	function renderCard() {

@@ -1,3 +1,3 @@
 # fake-api
-this page is for fake json
-here is link https://anishvermaishere.github.io/fake-api/
+
+This Page is for dummy/fake json data. Check this linke https://anishvermaishere.github.io/fake-api/
